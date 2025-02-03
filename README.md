@@ -16,3 +16,5 @@ https://www.w3.org/WAI/WCAG22/quickref/
 https://github.com/pa11y/pa11y
 
 https://webaim.org/resources/contrastchecker/
+
+test de la CI
